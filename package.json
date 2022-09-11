@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "element-ui": "^2.15.9",
+    "mockjs": "^1.1.0",
+    "moment": "^2.29.4"
+  }
+}
